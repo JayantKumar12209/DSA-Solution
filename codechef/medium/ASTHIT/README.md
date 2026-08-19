@@ -92,7 +92,7 @@ The third asteroid hits the fourth and loses, so the fourth now has the size $5+
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-19T11:15:52.202Z  
+**Submitted:** 2026-08-19T14:12:18.484Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
