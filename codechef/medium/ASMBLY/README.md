@@ -62,7 +62,7 @@ The teacher will not be able to see the 4th student as the height of the 3rd stu
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-20T09:31:22.731Z  
+**Submitted:** 2026-08-20T09:35:27.340Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
