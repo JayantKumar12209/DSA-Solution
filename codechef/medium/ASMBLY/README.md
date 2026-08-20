@@ -62,7 +62,7 @@ The teacher will not be able to see the 4th student as the height of the 3rd stu
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-20T08:48:45.042Z  
+**Submitted:** 2026-08-20T09:31:22.731Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -73,15 +73,21 @@ int main() {
     long long n;
     cin>>n;
     
-    long long a[n];
+    vector<long long>a(n);
     for(int i=0; i<n; i++){
         cin>>a[i];
     }
-    int cnt =0;
+    
+    long long cnt =0;
+    int maxH = 0;
+    
     for(int i=0; i<n; i++){
-        if(a[i<a[i+1]]) cnt++;
-        else break;
-    }cout<<cnt<<"\n";
+        if(a[i] > maxH){ 
+            cnt++;
+            maxH = a[i];
+        }
+    }
+    cout<<cnt<<"\n";
     return 0;
 }
 
