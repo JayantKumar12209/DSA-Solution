@@ -62,7 +62,7 @@ The teacher will not be able to see the 4th student as the height of the 3rd stu
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-20T08:46:13.275Z  
+**Submitted:** 2026-08-20T08:48:45.042Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -70,10 +70,10 @@ using namespace std;
 
 int main() {
 	// your code goes here
-    int n;
+    long long n;
     cin>>n;
     
-    int a[n];
+    long long a[n];
     for(int i=0; i<n; i++){
         cin>>a[i];
     }
