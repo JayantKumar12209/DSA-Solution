@@ -3,10 +3,10 @@ using namespace std;
 
 int main() {
 	// your code goes here
-    int n;
+    long long n;
     cin>>n;
     
-    int a[n];
+    long long a[n];
     for(int i=0; i<n; i++){
         cin>>a[i];
     }
