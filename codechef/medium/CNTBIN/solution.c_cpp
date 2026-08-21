@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+   int t;
+   cin>>t;
+    
+   while(t--){
+    long long n;
+    cin>>n;
+    
+    string s;
+    cin>>s;
+    
+    long long zeros = 0;
+    long long ans = 0;
+    
+    for(char ch: s){
+        if(ch == '0') zeros++;//count zeros in string
+        else ans = (ans + zeros) % ( 1000000007); 
+    }
+   
+   cout<<ans<<"\n";
+    
+   }return 0;
+   
+   }
