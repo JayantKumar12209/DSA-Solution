@@ -65,7 +65,7 @@ In the third query: Every positive integer number is divisible by $1$, so the an
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-22T15:15:37.892Z  
+**Submitted:** 2026-08-22T15:19:06.046Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
