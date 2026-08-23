@@ -49,7 +49,7 @@ If Tanny pays a 1 dollar banknote and Purgi pays the 33 dollar banknote, they ca
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-23T15:59:44.859Z  
+**Submitted:** 2026-08-23T18:04:09.276Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -57,25 +57,27 @@ using namespace std;
 
 int main() {
 	// your code goes here
-	long long n, m, c;
-	cin>>n>>m>>c;
-	
-	vector<long long>a(n);
-	for(int i=0; i<n; i++){
-	    cin>>a[i];
-	}
-	vector<long long>b(m);
-	for(int i=0; i<n; i++){
-	    cin>>b[i];
-	}
-	
-	for(int i=0; i<n; i++){
-	    for(int j=0; j<m; j++){
-	        if(a[i] +  b[j] == c){ cout<<"YES"<<"\n";
-	            break;
-	        }
-	    }
-	}cout<<"NO"<<"\n";
+    long long n,m,c;
+    cin>>n>>m>>c;
+    
+    vector<long long>a(n), b(m);
+    for(int i=0; i<n; i++){
+        cin>>a[i];
+    }
+    for(int i=0; i<m; i++){
+        cin>>b[i];
+    }
+    unordered_set<long long>st;
+    
+    for(long long x: b ) st.insert(x);
+    
+    for(long long x: a){
+        long long needed = c-x;
+        if(st.find(needed) != st.end()){
+            cout<<"YES\n";
+            return 0;
+        }
+    }cout<<"NO\n";
     return 0;
 }
 
