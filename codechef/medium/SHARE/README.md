@@ -49,7 +49,7 @@ If Tanny pays a 1 dollar banknote and Purgi pays the 33 dollar banknote, they ca
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-23T18:04:09.276Z  
+**Submitted:** 2026-08-23T18:04:15.925Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
