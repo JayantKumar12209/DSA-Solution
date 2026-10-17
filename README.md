@@ -47,3 +47,18 @@
 *Last updated: 2026-10-17* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0189-rotate-array) |
+<!---LeetCode Topics End-->
