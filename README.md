@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-3-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-4-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-10--17--2026-green?style=for-the-badge)
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **3** |
+| 🟢 Easy | **4** |
 | 🟡 Medium | **0** |
 | 🔴 Hard | **0** |
-| **Total** | **3** |
+| **Total** | **4** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **3** |
+| C++ | **4** |
 
 ## 📂 Repository Structure
 
@@ -47,14 +47,3 @@
 *Last updated: 2026-10-17* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0283-move-zeroes](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0283-move-zeroes) |
-<!---LeetCode Topics End-->
