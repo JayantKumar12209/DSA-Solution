@@ -47,3 +47,14 @@
 *Last updated: 2026-10-17* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0283-move-zeroes) |
+<!---LeetCode Topics End-->
