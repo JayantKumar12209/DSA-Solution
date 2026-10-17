@@ -40,20 +40,22 @@ Output: [0]
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 8.3 MB  
-**Submitted:** 2026-10-17T11:27:44.413Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 23.6 MB (beats 99.92%)  
+**Submitted:** 2026-10-17T11:52:55.299Z  
 
 ```cpp
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
         int i=0;
-        for(int j=1; j<nums.size(); j++){
-            if(nums[j] !=0 && nums[i] == 0){
+        for(int j=0; j<nums.size(); j++){
+            
+            if(nums[j] != 0){
                swap(nums[i], nums[j]);
-                i++;
+               i++;
             }
+              
         }
     }
 };
