@@ -56,9 +56,9 @@ Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We ret
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
+**Runtime:** 1 ms  
 **Memory:** 8.3 MB  
-**Submitted:** 2026-10-18T15:57:30.869Z  
+**Submitted:** 2026-10-18T15:58:07.176Z  
 
 ```cpp
 class Solution {
