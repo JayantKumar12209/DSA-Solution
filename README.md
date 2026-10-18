@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-6-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-8-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-2_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-10--18--2026-green?style=for-the-badge)
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **5** |
+| 🟢 Easy | **7** |
 | 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **6** |
+| **Total** | **8** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **6** |
+| C++ | **8** |
 
 ## 📂 Repository Structure
 
@@ -47,14 +47,3 @@
 *Last updated: 2026-10-18* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0125-valid-palindrome) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0125-valid-palindrome) |
-<!---LeetCode Topics End-->
