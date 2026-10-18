@@ -2,9 +2,9 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-4-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-10--17--2026-green?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-6-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-2_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-10--18--2026-green?style=for-the-badge)
 
 > 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **4** |
-| 🟡 Medium | **0** |
+| 🟢 Easy | **5** |
+| 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **4** |
+| **Total** | **6** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **4** |
+| C++ | **6** |
 
 ## 📂 Repository Structure
 
@@ -44,26 +44,6 @@
 
 <div align="center">
 
-*Last updated: 2026-10-17* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-10-18* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0189-rotate-array) |
-## Math
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0189-rotate-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0189-rotate-array) |
-| [0344-reverse-string](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0344-reverse-string) |
-## String
-|  |
-| ------- |
-| [0344-reverse-string](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0344-reverse-string) |
-<!---LeetCode Topics End-->
