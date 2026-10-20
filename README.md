@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-16-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-18-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-10--20--2026-green?style=for-the-badge)
 
@@ -17,15 +17,15 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **8** |
-| 🟡 Medium | **8** |
+| 🟡 Medium | **10** |
 | 🔴 Hard | **0** |
-| **Total** | **16** |
+| **Total** | **18** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **16** |
+| C++ | **18** |
 
 ## 📂 Repository Structure
 
@@ -47,18 +47,3 @@
 *Last updated: 2026-10-20* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0011-container-with-most-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0011-container-with-most-water) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
