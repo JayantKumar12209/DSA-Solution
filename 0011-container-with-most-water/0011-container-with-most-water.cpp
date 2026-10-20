@@ -5,7 +5,8 @@ public:
         while(s<e){
             l = min(height[s], height[e]);
             w = e - s;
-             maxC = max(maxC, l*w);
+            if(l*w > maxC) maxC = l*w;
+                     //    maxC = max(maxC, l*w);
             if(height[s]<=height[e]){
               
                s++;
