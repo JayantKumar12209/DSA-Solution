@@ -5,12 +5,13 @@ public:
         while(s<e){
             l = min(height[s], height[e]);
             w = e - s;
+             maxC = max(maxC, l*w);
             if(height[s]<=height[e]){
-               maxC = max(maxC, l*w);
+              
                s++;
             }
             else{
-               maxC = max(maxC, l*w);
+              
                e--; 
             } 
         }
