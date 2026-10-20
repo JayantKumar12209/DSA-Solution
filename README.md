@@ -47,3 +47,18 @@
 *Last updated: 2026-10-20* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0011-container-with-most-water) |
+<!---LeetCode Topics End-->
