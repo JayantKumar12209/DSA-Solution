@@ -43,8 +43,8 @@ Output: 1
 
 **Language:** C++  
 **Runtime:** 1 ms (beats 45.65%)  
-**Memory:** 62.9 MB (beats 77.13%)  
-**Submitted:** 2026-10-20T17:01:29.678Z  
+**Memory:** 62.8 MB (beats 77.13%)  
+**Submitted:** 2026-10-20T17:03:11.284Z  
 
 ```cpp
 class Solution {
@@ -54,7 +54,8 @@ public:
         while(s<e){
             l = min(height[s], height[e]);
             w = e - s;
-             maxC = max(maxC, l*w);
+            if(l*w > maxC) maxC = l*w;
+                     //    maxC = max(maxC, l*w);
             if(height[s]<=height[e]){
               
                s++;
