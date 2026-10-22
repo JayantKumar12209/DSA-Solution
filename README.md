@@ -47,3 +47,26 @@
 *Last updated: 2026-10-21* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0042-trapping-rain-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0042-trapping-rain-water) |
+<!---LeetCode Topics End-->
