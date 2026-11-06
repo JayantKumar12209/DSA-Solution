@@ -47,3 +47,14 @@
 *Last updated: 2026-11-06* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantKumar12209/DSA-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JayantKumar12209/DSA-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+<!---LeetCode Topics End-->
