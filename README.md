@@ -47,3 +47,14 @@
 *Last updated: 2026-11-06* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0155-min-stack) |
+<!---LeetCode Topics End-->
