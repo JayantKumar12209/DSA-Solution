@@ -62,9 +62,9 @@ Explanation: ((10  *(6 / ((9 + 3)*  -11))) + 17) + 5
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 17 MB (beats 70.15%)  
-**Submitted:** 2026-11-06T12:32:20.382Z  
+**Runtime:** 3 ms (beats 33.07%)  
+**Memory:** 16.9 MB (beats 85.85%)  
+**Submitted:** 2026-11-07T09:03:17.858Z  
 
 ```cpp
 class Solution {
