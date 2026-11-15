@@ -47,3 +47,18 @@
 *Last updated: 2026-11-15* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0045-jump-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0045-jump-game-ii) |
+<!---LeetCode Topics End-->
