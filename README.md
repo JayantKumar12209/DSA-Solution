@@ -47,3 +47,22 @@
 *Last updated: 2026-11-15* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2410-maximum-matching-of-players-with-trainers) |
+<!---LeetCode Topics End-->
