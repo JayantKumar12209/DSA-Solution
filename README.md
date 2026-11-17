@@ -61,4 +61,13 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/JayantKumar12209/DSA-Solution/tree/master/0045-jump-game-ii) |
+| [2938-separate-black-and-white-balls](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2938-separate-black-and-white-balls) |
+## Two Pointers
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2938-separate-black-and-white-balls) |
+## String
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/JayantKumar12209/DSA-Solution/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
